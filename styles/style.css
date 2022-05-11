@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    flex-direction: column;
+}
+
+div.canvas {
+    margin: 0;
+    top: 50%;
+    -ms-transform: translateY(20%);
+    transform: translateY(20%);
+  }
+  
+canvas {
+  border-radius: 2%;
+}
